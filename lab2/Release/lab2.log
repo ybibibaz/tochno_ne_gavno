@@ -1,0 +1,28 @@
+﻿  lab4.cpp
+  Создание кода
+C:\Users\Повелитель\source\repos\lab2\lab2\lab2.cpp(72): warning C4715: decision: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\Matrix.hpp(101): warning C4715: Matrix<int>::norm: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\Matrix.hpp(101): warning C4715: Matrix<float>::norm: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(69): warning C4715: ListSequence<float>::Get: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(61): warning C4715: ListSequence<char>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(53): warning C4715: ListSequence<char>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(53): warning C4715: ListSequence<int>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(61): warning C4715: ListSequence<float>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(69): warning C4715: ListSequence<int>::Get: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(53): warning C4715: ListSequence<float>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(61): warning C4715: ListSequence<int>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(69): warning C4715: ListSequence<char>::Get: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(53): warning C4715: ArraySequence<char>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(61): warning C4715: ArraySequence<char>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(69): warning C4715: ArraySequence<char>::Get: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(53): warning C4715: ArraySequence<int>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(61): warning C4715: ArraySequence<int>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(69): warning C4715: ArraySequence<int>::Get: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(53): warning C4715: ArraySequence<float>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(61): warning C4715: ArraySequence<float>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(69): warning C4715: ArraySequence<float>::Get: значение возвращается не при всех путях выполнения
+  171 of 333 functions (51.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    48 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab2.vcxproj -> C:\Users\Повелитель\source\repos\lab2\Release\lab2.exe

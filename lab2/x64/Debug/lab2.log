@@ -1,0 +1,20 @@
+﻿  lab4.cpp
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(53): warning C4715: ArraySequence<int>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(61): warning C4715: ArraySequence<int>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(69): warning C4715: ArraySequence<int>::Get: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(53): warning C4715: ArraySequence<float>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(61): warning C4715: ArraySequence<float>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(69): warning C4715: ArraySequence<float>::Get: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(53): warning C4715: ArraySequence<char>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(61): warning C4715: ArraySequence<char>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ArraySequence.hpp(69): warning C4715: ArraySequence<char>::Get: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(53): warning C4715: ListSequence<int>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(61): warning C4715: ListSequence<int>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(69): warning C4715: ListSequence<int>::Get: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(53): warning C4715: ListSequence<float>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(61): warning C4715: ListSequence<float>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(69): warning C4715: ListSequence<float>::Get: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(53): warning C4715: ListSequence<char>::GetFirst: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(61): warning C4715: ListSequence<char>::GetLast: значение возвращается не при всех путях выполнения
+C:\Users\Повелитель\source\repos\lab2\lab2\ListSequence.hpp(69): warning C4715: ListSequence<char>::Get: значение возвращается не при всех путях выполнения
+  lab2.vcxproj -> C:\Users\Повелитель\source\repos\lab2\x64\Debug\lab2.exe
